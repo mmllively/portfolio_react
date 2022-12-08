@@ -38,3 +38,7 @@ background-image: url("../public/Jumbotron.png")
   font-size: 200;
   color: pink;
 };
+
+.about-text{
+  font-size: 100;
+}
