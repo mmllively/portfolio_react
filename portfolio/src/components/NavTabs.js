@@ -19,7 +19,6 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
-          //  TODO: Add a comment explaining what this logic is doing
 
           className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
