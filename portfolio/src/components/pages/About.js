@@ -15,10 +15,10 @@ export default function About() {
       </div>
 
       <div className="container-md">
-        Testing
+       
       </div>
       
     </div>
    
-  );
+  )
 }

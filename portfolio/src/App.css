@@ -1,7 +1,3 @@
-/* .navbar {
-height: 150px;
-background-image: url("");
-} */
 
 body {
 background-image: url("../public/Jumbotron.png")
@@ -9,20 +5,36 @@ background-image: url("../public/Jumbotron.png")
 };
 
 *{
-  font-family: 'Roboto Slab', serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 };
 
-.nav{
+.navbar {
   background-color:#4E8098;
-
+  height: 100px;
 };
 
-.nav-link {
-  color: white;
+.navbar li {
+  
+  cursor: pointer;
+  list-style: none;
+  display: inline;
+  color: red;
   font-size: 20px;
+  text-decoration: none;
 };
+
+.navbarlink:hover,
+.active {
+  color: red;
+}
 
 .projectImage {
   height: 250px;
   width: 400px;
-}
+};
+
+.nav-text{
+  text-shadow:#4E8098;
+  font-size: 200;
+  color: pink;
+};

@@ -1,9 +1,9 @@
 import React from 'react';
 
 export default function Footer() {
-    (
-<div>
+    return (
+<footer>
     Testing.
-</div>
+</footer>
     )
 }
