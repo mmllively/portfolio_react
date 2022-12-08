@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio_react/static/css/main.660c3f13.css",
-    "main.js": "/portfolio_react/static/js/main.c128ff4f.js",
+    "main.css": "/portfolio_react/static/css/main.0cb6a6b8.css",
+    "main.js": "/portfolio_react/static/js/main.7e5bc813.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio_react/static/js/787.1ed0c42c.chunk.js",
     "static/media/Jumbotron.png": "/portfolio_react/static/media/Jumbotron.cb837ca1f57b4c241c54.png",
     "static/media/novelsips.png": "/portfolio_react/static/media/novelsips.c194d4400620e2b5bd78.png",
     "static/media/brews.png": "/portfolio_react/static/media/brews.59929e0426a6711916a2.png",
+    "static/media/MMLively_Resume2021.pdf": "/portfolio_react/static/media/MMLively_Resume2021.2047e219c92aa94090f1.pdf",
     "index.html": "/portfolio_react/index.html",
-    "main.660c3f13.css.map": "/portfolio_react/static/css/main.660c3f13.css.map",
-    "main.c128ff4f.js.map": "/portfolio_react/static/js/main.c128ff4f.js.map",
+    "main.0cb6a6b8.css.map": "/portfolio_react/static/css/main.0cb6a6b8.css.map",
+    "main.7e5bc813.js.map": "/portfolio_react/static/js/main.7e5bc813.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio_react/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.660c3f13.css",
-    "static/js/main.c128ff4f.js"
+    "static/css/main.0cb6a6b8.css",
+    "static/js/main.7e5bc813.js"
   ]
 }
