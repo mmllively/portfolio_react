@@ -2,6 +2,7 @@ import React from 'react';
 import Projects from './Projects';
 import NovelSips from '../../assets/novelsips.png';
 import Brews from '../../assets/brews.png';
+import Haunted from '../../assets/HauntedHolidays.png'
 
 
 
@@ -25,6 +26,16 @@ export default function Portfolio() {
             repo: "https://github.com/mmllively/Brews_and_Cruise",
             img: Brews,
         },
+
+        {
+            name: 'Haunted Holidays',
+            description: 'A MERN-stack single-page application, with a MongoDB back end, a GraphQL API, and an Express.js and Node.js server, with a React front end, implementing user authentication with JWT to build a user-focused platform, deployed through Heroku.',
+            id: 'pending',
+            link: "https://boiling-ridge-27905.herokuapp.com/",
+            repo: "https://github.com/KSoto18/Haunted-Holidays",
+            img: Haunted,
+
+        }
 
 
         

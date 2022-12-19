@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "./App.css";
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 const rootNode = document.getElementById('root');

@@ -2,16 +2,21 @@
 body {
 background-image: url("../public/Jumbotron.png")
 
-};
+}
 
 *{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-};
+}
 
-.navbar {
+.test{
+  color: red;
+}
+
+.nav-link{
   background-color:#4E8098;
   height: 100px;
-};
+  color: red;
+}
 
 .navbar li {
   
@@ -21,7 +26,7 @@ background-image: url("../public/Jumbotron.png")
   color: red;
   font-size: 20px;
   text-decoration: none;
-};
+}
 
 .navbarlink:hover,
 .active {
@@ -31,13 +36,13 @@ background-image: url("../public/Jumbotron.png")
 .projectImage {
   height: 250px;
   width: 400px;
-};
+}
 
 .nav-text{
   text-shadow:#4E8098;
   font-size: 200;
   color: pink;
-};
+}
 
 .about-text{
   font-size: 100;
